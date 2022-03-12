@@ -1,1 +1,1 @@
-export const VALID_GUESSES = ['tacos', 'chili', 'beans', 'sauce', 'salsa', 'gallo', 'flour', 'maize', 'queso', 'chips', 'pinto', 'nacho', 'spicy', 'vegan', 'salad', 'sides', 'drink', 'order', 'pollo', 'asado', 'steak', 'fresh', 'juice']
+export const VALID_GUESSES = ['tacos', 'chili', 'beans', 'sauce', 'salsa', 'gallo', 'flour', 'maize', 'queso', 'chips', 'pinto', 'nacho', 'spicy', 'vegan', 'salad', 'sides', 'drink', 'order', 'pollo', 'asado', 'steak', 'fresh', 'juice', 'bowls']
