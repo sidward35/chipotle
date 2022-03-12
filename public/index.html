@@ -38,6 +38,16 @@
       <!-- Plausible Analytics -->
       <script defer data-domain="%REACT_APP_PLAUSIBLE_DOMAIN%" src="https://plausible.io/js/plausible.js"></script>
     <% } %>
+
+    <script src="https://cdn.signalfx.com/o11y-gdi-rum/latest/splunk-otel-web.js" crossorigin="anonymous"></script>
+    <script>
+        SplunkRum.init({
+            beaconUrl: "https://rum-ingest.us1.signalfx.com/v1/rum",
+            rumAuth: "JUeo4BsZeSWJ8QA7RKV2yA",
+            app: "chipotle",
+            environment: "prod"
+            });
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
