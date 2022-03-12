@@ -2,7 +2,7 @@
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
-[**Try out the demo!**](https://reactle.vercel.app/)
+[**Try out the demo!**](https://chipotlele.herokuapp.com)
 
 ## Build and run
 
@@ -82,6 +82,8 @@ Open [http://localhost](http://localhost) in browser.
 
 ### Fun themes
 
+- [Marvel](https://marvle.herokuapp.com): Superhero (Marvel and DC) themed
+- [Chipotle](https://chipotlele.herokuapp.com): Chipotle (food, items, etc.) themed
 - ['en si lì'ur](https://tirea.learnnavi.org/wordle): Na'vi, the constructed language from James Cameron's AVATAR (2009)
 - [Airportle](https://airportle.scottscheapflights.com/): Airport Codes
 - [Anidal](https://anidal-abrarhayat.web.app/): Animals
