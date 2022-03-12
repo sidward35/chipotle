@@ -1,1 +1,1 @@
-export const WORDS = ['tacos', 'chili', 'beans', 'sauce', 'salsa', 'gallo', 'flour', 'maize', 'queso', 'chips', 'pinto', 'nacho', 'spicy', 'vegan', 'salad', 'sides', 'drink', 'order', 'pollo', 'asado', 'steak', 'fresh', 'juice', 'bowls']
+export const WORDS = ['tacos', 'chili', 'beans', 'sauce', 'salsa', 'gallo', 'flour', 'maize', 'queso', 'chips', 'pinto', 'nacho', 'spicy', 'vegan', 'salad', 'sides', 'drink', 'order', 'pollo', 'asado', 'steak', 'fresh', 'juice', 'bowls', 'sodas']
