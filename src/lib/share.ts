@@ -21,6 +21,7 @@ export const shareStatus = (
     `${GAME_TITLE} ${solutionIndex} ${
       lost ? 'X' : guesses.length
     }/${MAX_CHALLENGES}${isHardMode ? '*' : ''}\n\n` +
+    'https://chipotlele.herokuapp.com\n\n' +
     generateEmojiGrid(guesses, getEmojiTiles(isDarkMode, isHighContrastMode))
 
   const shareData = { text: textToShare }
